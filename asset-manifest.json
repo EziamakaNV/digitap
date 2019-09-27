@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/digitap/static/css/main.b100e6da.chunk.css",
+    "main.js": "/digitap/static/js/main.5f433d91.chunk.js",
+    "main.js.map": "/digitap/static/js/main.5f433d91.chunk.js.map",
+    "runtime-main.js": "/digitap/static/js/runtime-main.4cf2e2b9.js",
+    "runtime-main.js.map": "/digitap/static/js/runtime-main.4cf2e2b9.js.map",
+    "static/css/2.ad9eb4b5.chunk.css": "/digitap/static/css/2.ad9eb4b5.chunk.css",
+    "static/js/2.d85cc208.chunk.js": "/digitap/static/js/2.d85cc208.chunk.js",
+    "static/js/2.d85cc208.chunk.js.map": "/digitap/static/js/2.d85cc208.chunk.js.map",
+    "index.html": "/digitap/index.html",
+    "precache-manifest.aa331c1227e0c0097c275535c68137aa.js": "/digitap/precache-manifest.aa331c1227e0c0097c275535c68137aa.js",
+    "service-worker.js": "/digitap/service-worker.js",
+    "static/css/2.ad9eb4b5.chunk.css.map": "/digitap/static/css/2.ad9eb4b5.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/digitap/static/css/main.b100e6da.chunk.css.map",
+    "static/media/Complaints.png": "/digitap/static/media/Complaints.feb4c2f6.png",
+    "static/media/TransferFunds.png": "/digitap/static/media/TransferFunds.8c1d6e7e.png"
+  }
+}

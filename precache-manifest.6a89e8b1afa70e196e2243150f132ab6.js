@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "406587187d8f4ff243454be638658560",
+    "revision": "7d1dfce2edf4c5fa4c5c3a55031c1f7e",
     "url": "/digitap/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digitap/static/css/2.ad9eb4b5.chunk.css"
   },
   {
-    "revision": "a232dc8a6cbfcf732dc7",
+    "revision": "05c1f70d1c0285001ea8",
     "url": "/digitap/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digitap/static/js/2.d85cc208.chunk.js"
   },
   {
-    "revision": "a232dc8a6cbfcf732dc7",
-    "url": "/digitap/static/js/main.5f433d91.chunk.js"
+    "revision": "05c1f70d1c0285001ea8",
+    "url": "/digitap/static/js/main.b75a0d5b.chunk.js"
   },
   {
     "revision": "7ab050903347be724d39",

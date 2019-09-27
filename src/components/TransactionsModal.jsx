@@ -16,6 +16,9 @@ const TransactionsModal = (props) => {
                         {props.transactions.map((transaction) => {
                             return (
                                 <li key={transaction.id}>
+                                    <div>
+                                        {transaction.id}. {transaction.type} NGN {transaction.amount} {transaction.time.toString()}
+                                    </div>
                                     <a 
                                     id={transaction.id}
                                     href="#h"
@@ -24,8 +27,9 @@ const TransactionsModal = (props) => {
                                         props.submitComplaint(e,transaction.type,transaction.amount,transaction.time)
                                     }}
                                     >
-                                        {transaction.id}. {transaction.type} NGN {transaction.amount} {transaction.time.toString()}
+                                       Query Transaction 
                                     </a>
+                                    <div className="divider"></div>
                                 </li>
                             );
                         })}
